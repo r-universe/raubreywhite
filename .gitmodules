@@ -5,6 +5,27 @@
 [submodule "attrib"]
 	path = attrib
 	url = https://github.com/cran/attrib
+[submodule "csalert"]
+	path = csalert
+	url = https://github.com/cran/csalert
+[submodule "csdata"]
+	path = csdata
+	url = https://github.com/cran/csdata
+[submodule "csdb"]
+	path = csdb
+	url = https://github.com/cran/csdb
+[submodule "csmaps"]
+	path = csmaps
+	url = https://github.com/cran/csmaps
+[submodule "cstidy"]
+	path = cstidy
+	url = https://github.com/cran/cstidy
+[submodule "cstime"]
+	path = cstime
+	url = https://github.com/cran/cstime
+[submodule "csutil"]
+	path = csutil
+	url = https://github.com/cran/csutil
 [submodule "org"]
 	path = org
 	url = https://github.com/raubreywhite/org
