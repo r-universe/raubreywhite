@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/raubreywhite/raubreywhite.r-universe.dev
 	branch = HEAD
+[submodule "cohort"]
+	path = cohort
+	url = https://github.com/raubreywhite/cohort
 [submodule "org"]
 	path = org
 	url = https://github.com/raubreywhite/org
