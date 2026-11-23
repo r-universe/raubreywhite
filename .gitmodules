@@ -8,6 +8,9 @@
 [submodule "org"]
 	path = org
 	url = https://github.com/raubreywhite/org
+[submodule "pbn"]
+	path = pbn
+	url = https://github.com/raubreywhite/pbn
 [submodule "plnr"]
 	path = plnr
 	url = https://github.com/raubreywhite/plnr
